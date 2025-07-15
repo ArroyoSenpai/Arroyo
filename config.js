@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "ar",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
   spotifyClientId : "",
@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "DEV ARROYO", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
